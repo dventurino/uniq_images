@@ -73,7 +73,7 @@ Universita-SantAnna-Pisa.png
 Universita-Scienze-Gastronomiche.png
 Universita-Semplice-di-Pisa.png
 Alma-universita-emilia-romagna.png
-Linck-Campus-University-Lazio.png
+Link-Campus-University-Lazio.png
 Chiossone-Liguria.png
 Niccolo-Cusano-Lomb-Lazio-Puglia.png
 Accademia-di-brera-Lombardia.png
